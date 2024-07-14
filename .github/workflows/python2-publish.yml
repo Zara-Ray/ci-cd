@@ -13,8 +13,6 @@ on:
     branch: [main]
   pull_request:
     branch: [main]
-  workflow_dispatch
-
 
 jobs:
   helloworld:
